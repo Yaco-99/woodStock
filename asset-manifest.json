@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/woodStock/static/css/main.38270c6d.chunk.css",
+    "main.js": "/woodStock/static/js/main.5d0f4ec2.chunk.js",
+    "main.js.map": "/woodStock/static/js/main.5d0f4ec2.chunk.js.map",
+    "runtime-main.js": "/woodStock/static/js/runtime-main.00fb2109.js",
+    "runtime-main.js.map": "/woodStock/static/js/runtime-main.00fb2109.js.map",
+    "static/js/2.a7b69cbb.chunk.js": "/woodStock/static/js/2.a7b69cbb.chunk.js",
+    "static/js/2.a7b69cbb.chunk.js.map": "/woodStock/static/js/2.a7b69cbb.chunk.js.map",
+    "static/js/3.6e69ed06.chunk.js": "/woodStock/static/js/3.6e69ed06.chunk.js",
+    "static/js/3.6e69ed06.chunk.js.map": "/woodStock/static/js/3.6e69ed06.chunk.js.map",
+    "index.html": "/woodStock/index.html",
+    "static/css/main.38270c6d.chunk.css.map": "/woodStock/static/css/main.38270c6d.chunk.css.map",
+    "static/js/2.a7b69cbb.chunk.js.LICENSE.txt": "/woodStock/static/js/2.a7b69cbb.chunk.js.LICENSE.txt",
+    "static/media/bar.2ddfe512.jpg": "/woodStock/static/media/bar.2ddfe512.jpg",
+    "static/media/chair.be675bfd.jpg": "/woodStock/static/media/chair.be675bfd.jpg",
+    "static/media/App.css": "/woodStock/static/media/work.f6c075f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00fb2109.js",
+    "static/js/2.a7b69cbb.chunk.js",
+    "static/css/main.38270c6d.chunk.css",
+    "static/js/main.5d0f4ec2.chunk.js"
+  ]
+}
