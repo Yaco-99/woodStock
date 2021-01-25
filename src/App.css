@@ -1,6 +1,9 @@
 body {
   box-sizing: border-box;
 }
+html {
+  overflow-x: hidden;
+}
 .welcome {
   background: url("./images/wood.jpg") no-repeat;
   height: 65vh;
@@ -270,5 +273,8 @@ footer .logo::before,
   }
   .about_left {
     width: 100%;
+  }
+  .bar_img {
+    height: 200px;
   }
 }
